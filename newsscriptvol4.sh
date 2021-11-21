@@ -40,7 +40,6 @@ fi
 if [ $news = "e" ]
 then
       read kind
-      
       curl getnews.tech/$kind
 fi
 
