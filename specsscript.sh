@@ -1,3 +1,5 @@
+#! /usr/bin/bash
+
 echo " Welcome to a specs script! "
 
 echo " What specs would you like to see? "
