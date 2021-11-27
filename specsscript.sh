@@ -22,3 +22,4 @@ then
         lscpu
         lspci
 fi
+
