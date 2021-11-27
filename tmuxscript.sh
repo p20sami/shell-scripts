@@ -36,7 +36,7 @@ then
       tmux split-window -t session:0
       tmux split-window -t session:0
       tmux split-window -t session:0
-fi
+fi 
 
 tmux attach -tsession
       
