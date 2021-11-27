@@ -43,3 +43,4 @@ then
       curl getnews.tech/$kind
 fi
 
+
