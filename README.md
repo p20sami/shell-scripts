@@ -1,2 +1,2 @@
 # shell-scripts
-Some of my shell scripts, comprised from various topics. Enjoy!
+Some of my shell scripts, comprised of various topics. Enjoy!
